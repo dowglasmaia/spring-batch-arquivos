@@ -1,0 +1,10 @@
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\reader\ArquivoMultiplosFormatosReaderConfig.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\step\LeituraArquivoMultiplosFormatosStepConfig.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\job\ArquivoMultiplosFormatosJobConfig.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\dominio\Cliente.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\reader\ArquivoClienteTransacaoReader.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\writer\LeituraArquivoMultiplosFormatosWriterConfig.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\ArquivoMultiplosFormatosJobApplication.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\dominio\Transacao.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\reader\ClienteTransacaoLineMapper.java
+D:\projetos\curso-spring-batch\ArquivoMultiplosFormatosJob\src\main\java\com\springbatch\arquivomultiplosformatos\reader\MultiplosArquivosClienteTransacaoReaderConfig.java

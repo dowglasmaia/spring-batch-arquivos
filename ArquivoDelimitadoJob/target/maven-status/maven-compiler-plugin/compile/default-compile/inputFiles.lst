@@ -1,0 +1,6 @@
+D:\projetos\curso-spring-batch\ArquivoDelimitadoJob\src\main\java\com\springbatch\arquivodelimitado\ArquivoDelimitadoJobApplication.java
+D:\projetos\curso-spring-batch\ArquivoDelimitadoJob\src\main\java\com\springbatch\arquivodelimitado\writer\LeituraArquivoDelimitadoWriterConfig.java
+D:\projetos\curso-spring-batch\ArquivoDelimitadoJob\src\main\java\com\springbatch\arquivodelimitado\reader\LeituraArquivoDelimitadoReaderConfig.java
+D:\projetos\curso-spring-batch\ArquivoDelimitadoJob\src\main\java\com\springbatch\arquivodelimitado\job\ArquivoDelimitadoJobConfig.java
+D:\projetos\curso-spring-batch\ArquivoDelimitadoJob\src\main\java\com\springbatch\arquivodelimitado\dominio\Cliente.java
+D:\projetos\curso-spring-batch\ArquivoDelimitadoJob\src\main\java\com\springbatch\arquivodelimitado\step\LeituraArquivoDelimitadoStepConfig.java

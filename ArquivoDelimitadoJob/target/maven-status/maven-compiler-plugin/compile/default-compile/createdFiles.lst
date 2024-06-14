@@ -1,0 +1,6 @@
+com\springbatch\arquivodelimitado\ArquivoDelimitadoJobApplication.class
+com\springbatch\arquivodelimitado\reader\LeituraArquivoDelimitadoReaderConfig.class
+com\springbatch\arquivodelimitado\writer\LeituraArquivoDelimitadoWriterConfig.class
+com\springbatch\arquivodelimitado\dominio\Cliente.class
+com\springbatch\arquivodelimitado\step\LeituraArquivoDelimitadoStepConfig.class
+com\springbatch\arquivodelimitado\job\ArquivoDelimitadoJobConfig.class
