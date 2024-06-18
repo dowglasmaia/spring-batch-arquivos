@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres
+    environment:    
+      POSTGRES_USER: maia
+      POSTGRES_PASSWORD: maiaPW
+    volumes:
+      - data_base_postgres:/var/lib/postgresql/data
+    ports:
+     - 3333:5432
+    networks:
+      - api_network
+  
+volumes:
+  data_base_postgres:      
+
+networks:
+  api_network:
+    driver: bridge

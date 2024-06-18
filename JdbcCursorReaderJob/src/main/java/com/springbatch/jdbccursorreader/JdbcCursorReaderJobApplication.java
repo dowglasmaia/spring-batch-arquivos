@@ -1,13 +1,13 @@
-package com.dowglasmaia.springbatch;
+package com.springbatch.jdbccursorreader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbatchProjectApplication {
+public class JdbcCursorReaderJobApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbatchProjectApplication.class, args);
+		SpringApplication.run(JdbcCursorReaderJobApplication.class, args);
 	}
 
 }

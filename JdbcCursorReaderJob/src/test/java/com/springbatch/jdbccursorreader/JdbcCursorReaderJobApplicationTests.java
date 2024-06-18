@@ -1,10 +1,10 @@
-package com.dowglasmaia.springbatch;
+package com.springbatch.jdbccursorreader;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbatchProjectApplicationTests {
+class JdbcCursorReaderJobApplicationTests {
 
 	@Test
 	void contextLoads() {

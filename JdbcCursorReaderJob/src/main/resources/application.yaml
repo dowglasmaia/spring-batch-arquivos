@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    jdbcUrl: jdbc:postgresql://localhost:5432/db_batch
+    username: maia
+    password: maiapw
+    driver-class-name: org.postgresql.Driver
+  batch:
+    initialize-schema: always
+
+
+app:
+  datasource:
+    jdbcUrl: jdbc:postgresql://localhost:5432/db_app
+    username: maia
+    password: maiapw
+    driver-class-name: org.postgresql.Driver
+
