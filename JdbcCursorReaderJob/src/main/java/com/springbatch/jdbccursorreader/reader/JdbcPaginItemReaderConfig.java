@@ -26,7 +26,7 @@ public class JdbcPaginItemReaderConfig {
               .name("jdbcCursorReader")
               .dataSource(appDataSource)
               .queryProvider(queryProvider)
-              .pageSize(1)
+              .pageSize(10)
               .rowMapper(new BeanPropertyRowMapper<>(Cliente.class))
               .build();
     }

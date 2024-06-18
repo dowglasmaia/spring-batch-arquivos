@@ -11,11 +11,11 @@ import org.springframework.jdbc.core.BeanPropertyRowMapper;
 
 import javax.sql.DataSource;
 
-@Configuration
+//@Configuration
 public class JdbcCursorReaderConfig {
 
 
-    @Bean
+  //  @Bean
     public JdbcCursorItemReader<Cliente> jdbcCursorReader(
            @Qualifier("appDataSource") DataSource appDataSource
     ){
